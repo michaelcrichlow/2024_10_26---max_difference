@@ -53,6 +53,8 @@ if __name__ == '__main__':
     main()
 
 
+# -- C++ code from discord --
+#
 # int max_difference(const vector<int>& numbers) {
 #     if (numbers.size() == 0) return 0;
 
